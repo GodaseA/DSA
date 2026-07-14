@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GodaseA/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GodaseA/DSA/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GodaseA/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GodaseA/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GodaseA/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
