@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GodaseA/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GodaseA/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/GodaseA/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/GodaseA/DSA/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/GodaseA/DSA/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GodaseA/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GodaseA/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GodaseA/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/GodaseA/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/GodaseA/DSA/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 ## Sliding Window
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GodaseA/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
