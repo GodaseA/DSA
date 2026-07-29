@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GodaseA/DSA/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/GodaseA/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GodaseA/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/GodaseA/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GodaseA/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/GodaseA/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
