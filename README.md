@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GodaseA/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/GodaseA/DSA/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GodaseA/DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/GodaseA/DSA/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
