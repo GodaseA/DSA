@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GodaseA/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/GodaseA/DSA/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/GodaseA/DSA/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GodaseA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GodaseA/DSA/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GodaseA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
