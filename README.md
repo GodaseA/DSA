@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GodaseA/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GodaseA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GodaseA/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GodaseA/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
