@@ -10,9 +10,7 @@ class Solution {
     //     }    
     // int ans = set.iterator().next();
     //     return ans;  
-
-
-
+    
     int ans = 0;
     for(int num : nums){
         ans ^= num;
