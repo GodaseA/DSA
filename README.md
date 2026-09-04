@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GodaseA/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/GodaseA/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GodaseA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/GodaseA/DSA/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GodaseA/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/GodaseA/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GodaseA/DSA/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
