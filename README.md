@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GodaseA/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GodaseA/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GodaseA/DSA/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GodaseA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GodaseA/DSA/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GodaseA/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/GodaseA/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GodaseA/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 ## Greedy
