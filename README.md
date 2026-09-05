@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/GodaseA/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GodaseA/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/GodaseA/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
