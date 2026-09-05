@@ -7,7 +7,7 @@ class Solution {
         if(x== 1){
             return 1;
         }
-        int s = 0;
+        int s = 1;
         int e = x;
         int m;
         while(s <= e){
