@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GodaseA/DSA/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GodaseA/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GodaseA/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
