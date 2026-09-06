@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/GodaseA/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/GodaseA/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -148,5 +149,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/GodaseA/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/GodaseA/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
