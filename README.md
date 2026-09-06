@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/GodaseA/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
+| [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/GodaseA/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
