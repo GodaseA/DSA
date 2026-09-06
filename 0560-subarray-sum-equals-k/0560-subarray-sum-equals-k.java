@@ -31,28 +31,14 @@ class Solution {
         HashMap <Integer , Integer > map = new HashMap<>();
         map.put(0,1);
         int count = 0;
-
+        int prefixSum = 0;
         for(int i = 0 ; i < nums.length ; i++){
-            if(i == 0){
-                nums[i] = nums[i];
-                count = count + map.getOrDefault(nums[i] - k , 0);
-                map.put(nums[i],map.getOrDefault(nums[i],0) + 1);
-            }else{
-                nums[i] = nums[i] + nums[i-1];
-                count = count + map.getOrDefault(nums[i] - k , 0);
-                map.put(nums[i],map.getOrDefault(nums[i],0) + 1);
-            }
+                prefixSum += nums[i];
+                count = count + map.getOrDefault(prefixSum - k , 0);
+                map.put(prefixSum,map.getOrDefault(prefixSum,0) + 1);
 
         }
 
-        //   if(k == 0 && nums[0] != 0){
-        //         count = -1;
-        //     }
-        //  for(int j = 0 ; j < nums.length ; j++){
-           
-        //     count = count + map.getOrDefault(nums[j] - k , 0);
- 
-        //  }
          return count;
     }
 }
