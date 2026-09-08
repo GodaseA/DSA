@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GodaseA/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GodaseA/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/GodaseA/DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GodaseA/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/GodaseA/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GodaseA/DSA/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/GodaseA/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GodaseA/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GodaseA/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GodaseA/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/GodaseA/DSA/tree/master/0525-contiguous-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GodaseA/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 ## Stack
@@ -176,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/GodaseA/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
