@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/GodaseA/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/GodaseA/DSA/tree/master/0525-contiguous-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/GodaseA/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GodaseA/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -184,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
