@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GodaseA/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/GodaseA/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/GodaseA/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0525-contiguous-array](https://github.com/GodaseA/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GodaseA/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/GodaseA/DSA/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GodaseA/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/GodaseA/DSA/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/GodaseA/DSA/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GodaseA/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/GodaseA/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
