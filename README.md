@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GodaseA/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/GodaseA/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/GodaseA/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/GodaseA/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GodaseA/DSA/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/GodaseA/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GodaseA/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GodaseA/DSA/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GodaseA/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/GodaseA/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
