@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GodaseA/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GodaseA/DSA/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/GodaseA/DSA/tree/master/0367-valid-perfect-square) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GodaseA/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/GodaseA/DSA/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/GodaseA/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/GodaseA/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GodaseA/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GodaseA/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/GodaseA/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GodaseA/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GodaseA/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GodaseA/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/GodaseA/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GodaseA/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GodaseA/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/GodaseA/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GodaseA/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/GodaseA/DSA/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/GodaseA/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/GodaseA/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
