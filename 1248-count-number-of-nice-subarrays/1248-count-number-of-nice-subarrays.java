@@ -1,9 +1,9 @@
 class Solution {
-    static{
-        for(int i = 0; i < 500; i++){
-             numberOfSubarrays(new int[1], 1);
-        }
-    }
+    // static{
+    //     for(int i = 0; i < 500; i++){
+    //          numberOfSubarrays(new int[1], 1);
+    //     }
+    // }
     public static int numberOfSubarrays(int[] nums, int k) {
         return subsUpTo(nums , k) - subsUpTo(nums , k-1);
     }
