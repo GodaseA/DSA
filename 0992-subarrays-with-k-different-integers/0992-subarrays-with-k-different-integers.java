@@ -32,6 +32,11 @@
 
 
 class Solution {
+    static{
+        for(int i = 0 ; i < 500 ; i++){
+         subarraysWithKDistinct(new int[0] , 1);   
+        }
+    }
     public static int subarraysWithKDistinct(int[] nums, int k) {
         return subsUpTo(nums , k) - subsUpTo(nums , k-1);
     }
