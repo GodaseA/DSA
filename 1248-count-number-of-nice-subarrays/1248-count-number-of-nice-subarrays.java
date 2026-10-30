@@ -17,16 +17,16 @@ class Solution {
         int sum = 0;
 
         while(r < nums.length){
-             if(nums[r]%2 == 0){
-                nums[r] = 0;
-            }else{
-                nums[r] = 1;
-            }
+            //  if(nums[r]%2 == 0){
+            //     nums[r] = 0;
+            // }else{
+            //     nums[r] = 1;
+            // }
 
-            sum += nums[r];
+            sum += nums[r]%2;
 
             while(sum > k){
-                sum -= nums[l];
+                sum -= nums[l]%2;
                 l++;
             }
  
