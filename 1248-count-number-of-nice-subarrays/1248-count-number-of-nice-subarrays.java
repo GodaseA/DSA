@@ -1,7 +1,7 @@
 class Solution {
     static{
         for(int i = 0; i < 500; i++){
-             numberOfSubarrays(new int[] {0}, 1);
+             numberOfSubarrays(new int[1], 1);
         }
     }
     public static int numberOfSubarrays(int[] nums, int k) {
